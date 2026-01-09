@@ -1,0 +1,228 @@
+"country","infant_mortality_per_1000","region","NA"
+"Afghanistan",101.3,"South Asia",101.3
+"Somalia",83.6,"Africa",83.6
+"Central African Republic",80.5,"Africa",80.5
+"Equatorial Guinea",77.4,"Africa",77.4
+"Sierra Leone",71.2,"Africa",71.2
+"Niger",64.3,"Africa",64.3
+"Chad",62.5,"Africa",62.5
+"South Sudan",60.1,"Africa",60.1
+"Mozambique",58.2,"Africa",58.2
+"Mali",57.4,"Africa",57.4
+"Congo, Democratic Republic of the",57.4,"Africa",57.4
+"Liberia",55.7,"Africa",55.7
+"Angola",55.6,"Africa",55.6
+"Comoros",54.9,"Africa",54.9
+"Nigeria",53.7,"Africa",53.7
+"Benin",52.9,"Africa",52.9
+"Cote d'Ivoire",52.5,"Africa",52.5
+"Pakistan",51.5,"South Asia",51.5
+"Mauritania",48.9,"Africa",48.9
+"Burkina Faso",47,"Africa",47
+"Guinea",47,"Africa",47
+"Guinea-Bissau",46.4,"Africa",46.4
+"Cameroon",46.1,"Africa",46.1
+"Lesotho",45.7,"Africa",45.7
+"Djibouti",45.2,"Africa",45.2
+"Yemen",44.6,"Middle East",44.6
+"Sao Tome and Principe",42.6,"Africa",42.6
+"Sudan",40.6,"Africa",40.6
+"Eritrea",39.8,"Africa",39.8
+"Togo",38.4,"Africa",38.4
+"Madagascar",37.5,"Africa",37.5
+"Haiti",36.8,"Central America and the Caribbean",36.8
+"Eswatini",36.7,"Africa",36.7
+"Turkmenistan",35.9,"Central Asia",35.9
+"Gambia, The",35.7,"Africa",35.7
+"Burundi",35.7,"Africa",35.7
+"Zambia",35.6,"Africa",35.6
+"Laos",35.4,"East and Southeast Asia",35.4
+"Zimbabwe",33.4,"Africa",33.4
+"Ethiopia",32.6,"Africa",32.6
+"Timor-Leste",32.2,"East and Southeast Asia",32.2
+"Burma",32.1,"East and Southeast Asia",32.1
+"Papua New Guinea",32,"East and Southeast Asia",32
+"Malawi",31.9,"Africa",31.9
+"Kiribati",31.5,"Australia and Oceania",31.5
+"Ghana",31.2,"Africa",31.2
+"Senegal",31.1,"Africa",31.1
+"Congo, Republic of the",30.6,"Africa",30.6
+"India",30.4,"South Asia",30.4
+"Suriname",29.6,"South America",29.6
+"Tanzania",29.6,"Africa",29.6
+"Bangladesh",28.8,"South Asia",28.8
+"Uganda",28.5,"Africa",28.5
+"Cambodia",27.9,"East and Southeast Asia",27.9
+"Namibia",27.9,"Africa",27.9
+"Tuvalu",27.8,"Australia and Oceania",27.8
+"Gabon",26.9,"Africa",26.9
+"Kenya",26.1,"Africa",26.1
+"Guatemala",25,"Central America and the Caribbean",25
+"Rwanda",24.9,"Africa",24.9
+"Kyrgyzstan",24.5,"Central Asia",24.5
+"Maldives",24.4,"South Asia",24.4
+"Bhutan",24.3,"South Asia",24.3
+"Nepal",24,"South Asia",24
+"Botswana",23.7,"Africa",23.7
+"Kosovo",22.9,"Europe",22.9
+"Cabo Verde",22.4,"Africa",22.4
+"Bolivia",22.3,"South America",22.3
+"Philippines",22,"East and Southeast Asia",22
+"Paraguay",22,"South America",22
+"South Africa",21.9,"Africa",21.9
+"Georgia",21.7,"Central Asia",21.7
+"Tajikistan",21.7,"Central Asia",21.7
+"Dominican Republic",21.7,"Central America and the Caribbean",21.7
+"Guyana",21.1,"South America",21.1
+"Micronesia, Federated States of",20.9,"Australia and Oceania",20.9
+"Marshall Islands",20.6,"Australia and Oceania",20.6
+"Mongolia",19.4,"East and Southeast Asia",19.4
+"Solomon Islands",19.1,"Australia and Oceania",19.1
+"Indonesia",18.9,"East and Southeast Asia",18.9
+"Iraq",18.7,"Middle East",18.7
+"Algeria",18.7,"Africa",18.7
+"Turkey (Turkiye)",18.4,"Middle East",18.4
+"Morocco",18.3,"Africa",18.3
+"Uzbekistan",18.2,"Central Asia",18.2
+"Saint Helena, Ascension, and Tristan da Cunha",18.1,"Africa",18.1
+"Samoa",17.3,"Australia and Oceania",17.3
+"Egypt",16.8,"Africa",16.8
+"Korea, North",15.4,"East and Southeast Asia",15.4
+"Honduras",15.4,"Central America and the Caribbean",15.4
+"Gaza Strip",15.1,"Middle East",15.1
+"Syria",15.1,"Middle East",15.1
+"West Bank",15.1,"Middle East",15.1
+"Trinidad and Tobago",15.1,"Central America and the Caribbean",15.1
+"Cook Islands",15.1,"Australia and Oceania",15.1
+"Nicaragua",14.4,"Central America and the Caribbean",14.4
+"Iran",14.3,"Middle East",14.3
+"Panama",14.2,"Central America and the Caribbean",14.2
+"Vietnam",14.1,"East and Southeast Asia",14.1
+"Oman",13.9,"Middle East",13.9
+"Venezuela",13.9,"South America",13.9
+"Moldova",13.8,"Europe",13.8
+"Vanuatu",13.7,"Australia and Oceania",13.7
+"Antigua and Barbuda",13.6,"Central America and the Caribbean",13.6
+"British Virgin Islands",13.4,"Central America and the Caribbean",13.4
+"Jordan",13.2,"Middle East",13.2
+"Brazil",12.9,"South America",12.9
+"Saint Vincent and the Grenadines",12.3,"Central America and the Caribbean",12.3
+"Mexico",12.1,"North America",12.1
+"Northern Mariana Islands",11.9,"Australia and Oceania",11.9
+"Tonga",11.8,"Australia and Oceania",11.8
+"El Salvador",11.7,"Central America and the Caribbean",11.7
+"Saudi Arabia",11.7,"Middle East",11.7
+"Colombia",11.7,"South America",11.7
+"Armenia",11.6,"Central Asia",11.6
+"Mauritius",11.6,"Africa",11.6
+"Aruba",11.5,"Central America and the Caribbean",11.5
+"Saint Lucia",11.5,"Central America and the Caribbean",11.5
+"Tunisia",11.3,"Africa",11.3
+"Belize",11.3,"Central America and the Caribbean",11.3
+"Ecuador",11.2,"South America",11.2
+"Turks and Caicos Islands",11.1,"Central America and the Caribbean",11.1
+"Azerbaijan",10.9,"Central Asia",10.9
+"Guam",10.9,"Australia and Oceania",10.9
+"Peru",10.8,"South America",10.8
+"Palau",10.8,"Australia and Oceania",10.8
+"Dominica",10.7,"Central America and the Caribbean",10.7
+"Libya",10.7,"Africa",10.7
+"Jamaica",10.7,"Central America and the Caribbean",10.7
+"Albania",10.3,"Europe",10.3
+"Seychelles",10.2,"Africa",10.2
+"Brunei",10,"East and Southeast Asia",10
+"Fiji",9.7,"Australia and Oceania",9.7
+"Montserrat",9.7,"Central America and the Caribbean",9.7
+"Bahrain",9.7,"Middle East",9.7
+"American Samoa",9.7,"Australia and Oceania",9.7
+"Barbados",9.6,"Central America and the Caribbean",9.6
+"Bahamas, The",9.4,"Central America and the Caribbean",9.4
+"Grenada",9,"Central America and the Caribbean",9
+"Argentina",9,"South America",9
+"Ukraine",8.7,"Europe",8.7
+"Greenland",8.5,"North America",8.5
+"Croatia",8.4,"Europe",8.4
+"Cyprus",8.1,"Europe",8.1
+"Uruguay",8,"South America",8
+"Kazakhstan",8,"Central Asia",8
+"Saint Kitts and Nevis",8,"Central America and the Caribbean",8
+"Saint Pierre and Miquelon",7.8,"North America",7.8
+"Bulgaria",7.7,"Europe",7.7
+"Sint Maarten",7.6,"Central America and the Caribbean",7.6
+"Nauru",7.6,"Australia and Oceania",7.6
+"Curacao",7.5,"Central America and the Caribbean",7.5
+"Virgin Islands",7.3,"Central America and the Caribbean",7.3
+"Cayman Islands",7.3,"Central America and the Caribbean",7.3
+"Kuwait",7.2,"Middle East",7.2
+"North Macedonia",7,"Europe",7
+"Sri Lanka",6.8,"South Asia",6.8
+"Costa Rica",6.7,"Central America and the Caribbean",6.7
+"Lebanon",6.7,"Middle East",6.7
+"Saint Martin",6.5,"Central America and the Caribbean",6.5
+"Saint Barthelemy",6.5,"Central America and the Caribbean",6.5
+"Russia",6.5,"Central Asia",6.5
+"Qatar",6.4,"Middle East",6.4
+"Malaysia",6.4,"East and Southeast Asia",6.4
+"Thailand",6.3,"East and Southeast Asia",6.3
+"Chile",6.3,"South America",6.3
+"China",6.2,"East and Southeast Asia",6.2
+"San Marino",6.2,"Europe",6.2
+"Gibraltar",6,"Europe",6
+"Puerto Rico",5.8,"Central America and the Caribbean",5.8
+"Faroe Islands",5.7,"Europe",5.7
+"Romania",5.5,"Europe",5.5
+"United States",5.1,"North America",5.1
+"Slovakia",5.1,"Europe",5.1
+"United Arab Emirates",5,"Middle East",5
+"Bosnia and Herzegovina",5,"Europe",5
+"Poland",4.9,"Europe",4.9
+"New Caledonia",4.8,"Australia and Oceania",4.8
+"Latvia",4.7,"Europe",4.7
+"Hungary",4.7,"Europe",4.7
+"Serbia",4.5,"Europe",4.5
+"Malta",4.4,"Europe",4.4
+"Macau",4.4,"East and Southeast Asia",4.4
+"French Polynesia",4.3,"Australia and Oceania",4.3
+"Canada",4.3,"North America",4.3
+"Isle of Man",4.1,"Europe",4.1
+"Cuba",4,"Central America and the Caribbean",4
+"Wallis and Futuna",3.9,"Australia and Oceania",3.9
+"Liechtenstein",3.9,"Europe",3.9
+"United Kingdom",3.8,"Europe",3.8
+"Taiwan",3.8,"East and Southeast Asia",3.8
+"Jersey",3.7,"Europe",3.7
+"Lithuania",3.6,"Europe",3.6
+"Netherlands",3.6,"Europe",3.6
+"Greece",3.4,"Europe",3.4
+"Estonia",3.3,"Europe",3.3
+"Guernsey",3.3,"Europe",3.3
+"Ireland",3.3,"Europe",3.3
+"New Zealand",3.3,"Australia and Oceania",3.3
+"Andorra",3.3,"Europe",3.3
+"Austria",3.2,"Europe",3.2
+"Montenegro",3.2,"Europe",3.2
+"Luxembourg",3.2,"Europe",3.2
+"France",3.1,"Europe",3.1
+"Belgium",3.1,"Europe",3.1
+"Germany",3.1,"Europe",3.1
+"Italy",3.1,"Europe",3.1
+"Anguilla",3,"Central America and the Caribbean",3
+"Switzerland",3,"Europe",3
+"Denmark",3,"Europe",3
+"Australia",2.9,"Australia and Oceania",2.9
+"Korea, South",2.8,"East and Southeast Asia",2.8
+"Israel",2.8,"Middle East",2.8
+"Czechia",2.6,"Europe",2.6
+"Hong Kong",2.5,"East and Southeast Asia",2.5
+"Portugal",2.4,"Europe",2.4
+"Spain",2.4,"Europe",2.4
+"Sweden",2.3,"Europe",2.3
+"Belarus",2.1,"Europe",2.1
+"Bermuda",2.1,"North America",2.1
+"Finland",2.1,"Europe",2.1
+"Japan",1.9,"East and Southeast Asia",1.9
+"Norway",1.8,"Europe",1.8
+"Monaco",1.7,"Europe",1.7
+"Iceland",1.6,"Europe",1.6
+"Singapore",1.5,"East and Southeast Asia",1.5
+"Slovenia",1.5,"Europe",1.5

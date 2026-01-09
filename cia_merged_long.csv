@@ -1,0 +1,589 @@
+"country","region","metric","value"
+"Afghanistan","South Asia","infant_mortality_per_1000",101.3
+"Albania","Europe","infant_mortality_per_1000",10.3
+"Algeria","Africa","infant_mortality_per_1000",18.7
+"Andorra","Europe","infant_mortality_per_1000",3.3
+"Angola","Africa","infant_mortality_per_1000",55.6
+"Antigua and Barbuda","Central America and the Caribbean","infant_mortality_per_1000",13.6
+"Argentina","South America","infant_mortality_per_1000",9
+"Armenia","Central Asia","infant_mortality_per_1000",11.6
+"Australia","Australia and Oceania","infant_mortality_per_1000",2.9
+"Austria","Europe","infant_mortality_per_1000",3.2
+"Azerbaijan","Central Asia","infant_mortality_per_1000",10.9
+"Bahamas, The","Central America and the Caribbean","infant_mortality_per_1000",9.4
+"Bahrain","Middle East","infant_mortality_per_1000",9.7
+"Bangladesh","South Asia","infant_mortality_per_1000",28.8
+"Barbados","Central America and the Caribbean","infant_mortality_per_1000",9.6
+"Belarus","Europe","infant_mortality_per_1000",2.1
+"Belgium","Europe","infant_mortality_per_1000",3.1
+"Belize","Central America and the Caribbean","infant_mortality_per_1000",11.3
+"Benin","Africa","infant_mortality_per_1000",52.9
+"Bhutan","South Asia","infant_mortality_per_1000",24.3
+"Bolivia","South America","infant_mortality_per_1000",22.3
+"Bosnia and Herzegovina","Europe","infant_mortality_per_1000",5
+"Botswana","Africa","infant_mortality_per_1000",23.7
+"Brazil","South America","infant_mortality_per_1000",12.9
+"Brunei","East and Southeast Asia","infant_mortality_per_1000",10
+"Bulgaria","Europe","infant_mortality_per_1000",7.7
+"Burkina Faso","Africa","infant_mortality_per_1000",47
+"Burma","East and Southeast Asia","infant_mortality_per_1000",32.1
+"Burundi","Africa","infant_mortality_per_1000",35.7
+"Cabo Verde","Africa","infant_mortality_per_1000",22.4
+"Cambodia","East and Southeast Asia","infant_mortality_per_1000",27.9
+"Cameroon","Africa","infant_mortality_per_1000",46.1
+"Canada","North America","infant_mortality_per_1000",4.3
+"Central African Republic","Africa","infant_mortality_per_1000",80.5
+"Chad","Africa","infant_mortality_per_1000",62.5
+"Chile","South America","infant_mortality_per_1000",6.3
+"China","East and Southeast Asia","infant_mortality_per_1000",6.2
+"Colombia","South America","infant_mortality_per_1000",11.7
+"Comoros","Africa","infant_mortality_per_1000",54.9
+"Congo, Democratic Republic of the","Africa","infant_mortality_per_1000",57.4
+"Congo, Republic of the","Africa","infant_mortality_per_1000",30.6
+"Cook Islands","Australia and Oceania","infant_mortality_per_1000",15.1
+"Costa Rica","Central America and the Caribbean","infant_mortality_per_1000",6.7
+"Cote d'Ivoire","Africa","infant_mortality_per_1000",52.5
+"Croatia","Europe","infant_mortality_per_1000",8.4
+"Cuba","Central America and the Caribbean","infant_mortality_per_1000",4
+"Cyprus","Europe","infant_mortality_per_1000",8.1
+"Czechia","Europe","infant_mortality_per_1000",2.6
+"Denmark","Europe","infant_mortality_per_1000",3
+"Djibouti","Africa","infant_mortality_per_1000",45.2
+"Dominica","Central America and the Caribbean","infant_mortality_per_1000",10.7
+"Dominican Republic","Central America and the Caribbean","infant_mortality_per_1000",21.7
+"Ecuador","South America","infant_mortality_per_1000",11.2
+"Egypt","Africa","infant_mortality_per_1000",16.8
+"El Salvador","Central America and the Caribbean","infant_mortality_per_1000",11.7
+"Equatorial Guinea","Africa","infant_mortality_per_1000",77.4
+"Eritrea","Africa","infant_mortality_per_1000",39.8
+"Estonia","Europe","infant_mortality_per_1000",3.3
+"Eswatini","Africa","infant_mortality_per_1000",36.7
+"Ethiopia","Africa","infant_mortality_per_1000",32.6
+"Fiji","Australia and Oceania","infant_mortality_per_1000",9.7
+"Finland","Europe","infant_mortality_per_1000",2.1
+"France","Europe","infant_mortality_per_1000",3.1
+"Gabon","Africa","infant_mortality_per_1000",26.9
+"Gambia, The","Africa","infant_mortality_per_1000",35.7
+"Gaza Strip","Middle East","infant_mortality_per_1000",15.1
+"Georgia","Central Asia","infant_mortality_per_1000",21.7
+"Germany","Europe","infant_mortality_per_1000",3.1
+"Ghana","Africa","infant_mortality_per_1000",31.2
+"Greece","Europe","infant_mortality_per_1000",3.4
+"Grenada","Central America and the Caribbean","infant_mortality_per_1000",9
+"Guatemala","Central America and the Caribbean","infant_mortality_per_1000",25
+"Guinea","Africa","infant_mortality_per_1000",47
+"Guinea-Bissau","Africa","infant_mortality_per_1000",46.4
+"Guyana","South America","infant_mortality_per_1000",21.1
+"Haiti","Central America and the Caribbean","infant_mortality_per_1000",36.8
+"Honduras","Central America and the Caribbean","infant_mortality_per_1000",15.4
+"Hungary","Europe","infant_mortality_per_1000",4.7
+"Iceland","Europe","infant_mortality_per_1000",1.6
+"India","South Asia","infant_mortality_per_1000",30.4
+"Indonesia","East and Southeast Asia","infant_mortality_per_1000",18.9
+"Iran","Middle East","infant_mortality_per_1000",14.3
+"Iraq","Middle East","infant_mortality_per_1000",18.7
+"Ireland","Europe","infant_mortality_per_1000",3.3
+"Israel","Middle East","infant_mortality_per_1000",2.8
+"Italy","Europe","infant_mortality_per_1000",3.1
+"Jamaica","Central America and the Caribbean","infant_mortality_per_1000",10.7
+"Japan","East and Southeast Asia","infant_mortality_per_1000",1.9
+"Jordan","Middle East","infant_mortality_per_1000",13.2
+"Kazakhstan","Central Asia","infant_mortality_per_1000",8
+"Kenya","Africa","infant_mortality_per_1000",26.1
+"Kiribati","Australia and Oceania","infant_mortality_per_1000",31.5
+"Korea, North","East and Southeast Asia","infant_mortality_per_1000",15.4
+"Korea, South","East and Southeast Asia","infant_mortality_per_1000",2.8
+"Kuwait","Middle East","infant_mortality_per_1000",7.2
+"Kyrgyzstan","Central Asia","infant_mortality_per_1000",24.5
+"Laos","East and Southeast Asia","infant_mortality_per_1000",35.4
+"Latvia","Europe","infant_mortality_per_1000",4.7
+"Lebanon","Middle East","infant_mortality_per_1000",6.7
+"Lesotho","Africa","infant_mortality_per_1000",45.7
+"Liberia","Africa","infant_mortality_per_1000",55.7
+"Libya","Africa","infant_mortality_per_1000",10.7
+"Lithuania","Europe","infant_mortality_per_1000",3.6
+"Luxembourg","Europe","infant_mortality_per_1000",3.2
+"Madagascar","Africa","infant_mortality_per_1000",37.5
+"Malawi","Africa","infant_mortality_per_1000",31.9
+"Malaysia","East and Southeast Asia","infant_mortality_per_1000",6.4
+"Maldives","South Asia","infant_mortality_per_1000",24.4
+"Mali","Africa","infant_mortality_per_1000",57.4
+"Malta","Europe","infant_mortality_per_1000",4.4
+"Marshall Islands","Australia and Oceania","infant_mortality_per_1000",20.6
+"Mauritania","Africa","infant_mortality_per_1000",48.9
+"Mauritius","Africa","infant_mortality_per_1000",11.6
+"Mexico","North America","infant_mortality_per_1000",12.1
+"Micronesia, Federated States of","Australia and Oceania","infant_mortality_per_1000",20.9
+"Moldova","Europe","infant_mortality_per_1000",13.8
+"Monaco","Europe","infant_mortality_per_1000",1.7
+"Mongolia","East and Southeast Asia","infant_mortality_per_1000",19.4
+"Montenegro","Europe","infant_mortality_per_1000",3.2
+"Morocco","Africa","infant_mortality_per_1000",18.3
+"Mozambique","Africa","infant_mortality_per_1000",58.2
+"Namibia","Africa","infant_mortality_per_1000",27.9
+"Nauru","Australia and Oceania","infant_mortality_per_1000",7.6
+"Nepal","South Asia","infant_mortality_per_1000",24
+"Netherlands","Europe","infant_mortality_per_1000",3.6
+"New Zealand","Australia and Oceania","infant_mortality_per_1000",3.3
+"Nicaragua","Central America and the Caribbean","infant_mortality_per_1000",14.4
+"Niger","Africa","infant_mortality_per_1000",64.3
+"Nigeria","Africa","infant_mortality_per_1000",53.7
+"North Macedonia","Europe","infant_mortality_per_1000",7
+"Norway","Europe","infant_mortality_per_1000",1.8
+"Oman","Middle East","infant_mortality_per_1000",13.9
+"Pakistan","South Asia","infant_mortality_per_1000",51.5
+"Palau","Australia and Oceania","infant_mortality_per_1000",10.8
+"Panama","Central America and the Caribbean","infant_mortality_per_1000",14.2
+"Papua New Guinea","East and Southeast Asia","infant_mortality_per_1000",32
+"Paraguay","South America","infant_mortality_per_1000",22
+"Peru","South America","infant_mortality_per_1000",10.8
+"Philippines","East and Southeast Asia","infant_mortality_per_1000",22
+"Poland","Europe","infant_mortality_per_1000",4.9
+"Portugal","Europe","infant_mortality_per_1000",2.4
+"Puerto Rico","Central America and the Caribbean","infant_mortality_per_1000",5.8
+"Qatar","Middle East","infant_mortality_per_1000",6.4
+"Romania","Europe","infant_mortality_per_1000",5.5
+"Russia","Central Asia","infant_mortality_per_1000",6.5
+"Rwanda","Africa","infant_mortality_per_1000",24.9
+"Saint Kitts and Nevis","Central America and the Caribbean","infant_mortality_per_1000",8
+"Saint Lucia","Central America and the Caribbean","infant_mortality_per_1000",11.5
+"Saint Vincent and the Grenadines","Central America and the Caribbean","infant_mortality_per_1000",12.3
+"Samoa","Australia and Oceania","infant_mortality_per_1000",17.3
+"San Marino","Europe","infant_mortality_per_1000",6.2
+"Sao Tome and Principe","Africa","infant_mortality_per_1000",42.6
+"Saudi Arabia","Middle East","infant_mortality_per_1000",11.7
+"Senegal","Africa","infant_mortality_per_1000",31.1
+"Serbia","Europe","infant_mortality_per_1000",4.5
+"Seychelles","Africa","infant_mortality_per_1000",10.2
+"Sierra Leone","Africa","infant_mortality_per_1000",71.2
+"Singapore","East and Southeast Asia","infant_mortality_per_1000",1.5
+"Slovakia","Europe","infant_mortality_per_1000",5.1
+"Slovenia","Europe","infant_mortality_per_1000",1.5
+"Solomon Islands","Australia and Oceania","infant_mortality_per_1000",19.1
+"Somalia","Africa","infant_mortality_per_1000",83.6
+"South Africa","Africa","infant_mortality_per_1000",21.9
+"South Sudan","Africa","infant_mortality_per_1000",60.1
+"Spain","Europe","infant_mortality_per_1000",2.4
+"Sri Lanka","South Asia","infant_mortality_per_1000",6.8
+"Sudan","Africa","infant_mortality_per_1000",40.6
+"Suriname","South America","infant_mortality_per_1000",29.6
+"Sweden","Europe","infant_mortality_per_1000",2.3
+"Switzerland","Europe","infant_mortality_per_1000",3
+"Syria","Middle East","infant_mortality_per_1000",15.1
+"Tajikistan","Central Asia","infant_mortality_per_1000",21.7
+"Tanzania","Africa","infant_mortality_per_1000",29.6
+"Thailand","East and Southeast Asia","infant_mortality_per_1000",6.3
+"Timor-Leste","East and Southeast Asia","infant_mortality_per_1000",32.2
+"Togo","Africa","infant_mortality_per_1000",38.4
+"Tonga","Australia and Oceania","infant_mortality_per_1000",11.8
+"Trinidad and Tobago","Central America and the Caribbean","infant_mortality_per_1000",15.1
+"Tunisia","Africa","infant_mortality_per_1000",11.3
+"Turkey (Turkiye)","Middle East","infant_mortality_per_1000",18.4
+"Turkmenistan","Central Asia","infant_mortality_per_1000",35.9
+"Tuvalu","Australia and Oceania","infant_mortality_per_1000",27.8
+"Uganda","Africa","infant_mortality_per_1000",28.5
+"Ukraine","Europe","infant_mortality_per_1000",8.7
+"United Arab Emirates","Middle East","infant_mortality_per_1000",5
+"United Kingdom","Europe","infant_mortality_per_1000",3.8
+"United States","North America","infant_mortality_per_1000",5.1
+"Uruguay","South America","infant_mortality_per_1000",8
+"Uzbekistan","Central Asia","infant_mortality_per_1000",18.2
+"Vanuatu","Australia and Oceania","infant_mortality_per_1000",13.7
+"Venezuela","South America","infant_mortality_per_1000",13.9
+"Vietnam","East and Southeast Asia","infant_mortality_per_1000",14.1
+"West Bank","Middle East","infant_mortality_per_1000",15.1
+"Yemen","Middle East","infant_mortality_per_1000",44.6
+"Zambia","Africa","infant_mortality_per_1000",35.6
+"Zimbabwe","Africa","infant_mortality_per_1000",33.4
+"Afghanistan","South Asia","life_expectancy_years",54.4
+"Albania","Europe","life_expectancy_years",79.9
+"Algeria","Africa","life_expectancy_years",77.9
+"Andorra","Europe","life_expectancy_years",83.8
+"Angola","Africa","life_expectancy_years",62.9
+"Antigua and Barbuda","Central America and the Caribbean","life_expectancy_years",78.3
+"Argentina","South America","life_expectancy_years",78.8
+"Armenia","Central Asia","life_expectancy_years",76.7
+"Australia","Australia and Oceania","life_expectancy_years",83.5
+"Austria","Europe","life_expectancy_years",82.7
+"Azerbaijan","Central Asia","life_expectancy_years",75.9
+"Bahamas, The","Central America and the Caribbean","life_expectancy_years",76.7
+"Bahrain","Middle East","life_expectancy_years",80.4
+"Bangladesh","South Asia","life_expectancy_years",75.2
+"Barbados","Central America and the Caribbean","life_expectancy_years",79
+"Belarus","Europe","life_expectancy_years",74.7
+"Belgium","Europe","life_expectancy_years",82.3
+"Belize","Central America and the Caribbean","life_expectancy_years",74.3
+"Benin","Africa","life_expectancy_years",63
+"Bhutan","South Asia","life_expectancy_years",73.7
+"Bolivia","South America","life_expectancy_years",72.5
+"Bosnia and Herzegovina","Europe","life_expectancy_years",78.5
+"Botswana","Africa","life_expectancy_years",66.4
+"Brazil","South America","life_expectancy_years",76.3
+"Brunei","East and Southeast Asia","life_expectancy_years",78.9
+"Bulgaria","Europe","life_expectancy_years",76.1
+"Burkina Faso","Africa","life_expectancy_years",64.2
+"Burma","East and Southeast Asia","life_expectancy_years",70.3
+"Burundi","Africa","life_expectancy_years",68.1
+"Cabo Verde","Africa","life_expectancy_years",74.3
+"Cambodia","East and Southeast Asia","life_expectancy_years",71.4
+"Cameroon","Africa","life_expectancy_years",64.2
+"Canada","North America","life_expectancy_years",84.2
+"Central African Republic","Africa","life_expectancy_years",56.4
+"Chad","Africa","life_expectancy_years",60
+"Chile","South America","life_expectancy_years",80.3
+"China","East and Southeast Asia","life_expectancy_years",78.7
+"Colombia","South America","life_expectancy_years",74.9
+"Comoros","Africa","life_expectancy_years",67.8
+"Congo, Democratic Republic of the","Africa","life_expectancy_years",62.6
+"Congo, Republic of the","Africa","life_expectancy_years",72.9
+"Cook Islands","Australia and Oceania","life_expectancy_years",77.6
+"Costa Rica","Central America and the Caribbean","life_expectancy_years",80.3
+"Cote d'Ivoire","Africa","life_expectancy_years",63.2
+"Croatia","Europe","life_expectancy_years",77.7
+"Cuba","Central America and the Caribbean","life_expectancy_years",80.1
+"Cyprus","Europe","life_expectancy_years",80.2
+"Czechia","Europe","life_expectancy_years",78.6
+"Denmark","Europe","life_expectancy_years",82.1
+"Djibouti","Africa","life_expectancy_years",65.9
+"Dominica","Central America and the Caribbean","life_expectancy_years",78.7
+"Dominican Republic","Central America and the Caribbean","life_expectancy_years",72.6
+"Ecuador","South America","life_expectancy_years",74.9
+"Egypt","Africa","life_expectancy_years",75
+"El Salvador","Central America and the Caribbean","life_expectancy_years",75.9
+"Equatorial Guinea","Africa","life_expectancy_years",63.9
+"Eritrea","Africa","life_expectancy_years",67.5
+"Estonia","Europe","life_expectancy_years",78.4
+"Eswatini","Africa","life_expectancy_years",60.7
+"Ethiopia","Africa","life_expectancy_years",67.7
+"Fiji","Australia and Oceania","life_expectancy_years",74.8
+"Finland","Europe","life_expectancy_years",82.2
+"France","Europe","life_expectancy_years",82.6
+"Gabon","Africa","life_expectancy_years",70.4
+"Gambia, The","Africa","life_expectancy_years",68.4
+"Gaza Strip","Middle East","life_expectancy_years",75.5
+"Georgia","Central Asia","life_expectancy_years",72.8
+"Germany","Europe","life_expectancy_years",81.9
+"Ghana","Africa","life_expectancy_years",70.1
+"Greece","Europe","life_expectancy_years",81.9
+"Grenada","Central America and the Caribbean","life_expectancy_years",76.3
+"Guatemala","Central America and the Caribbean","life_expectancy_years",73.5
+"Guinea","Africa","life_expectancy_years",64.6
+"Guinea-Bissau","Africa","life_expectancy_years",64.5
+"Guyana","South America","life_expectancy_years",72.4
+"Haiti","Central America and the Caribbean","life_expectancy_years",65.6
+"Honduras","Central America and the Caribbean","life_expectancy_years",73.1
+"Hungary","Europe","life_expectancy_years",76
+"Iceland","Europe","life_expectancy_years",84
+"India","South Asia","life_expectancy_years",68.2
+"Indonesia","East and Southeast Asia","life_expectancy_years",73.6
+"Iran","Middle East","life_expectancy_years",75.6
+"Iraq","Middle East","life_expectancy_years",73.7
+"Ireland","Europe","life_expectancy_years",82
+"Israel","Middle East","life_expectancy_years",83.1
+"Italy","Europe","life_expectancy_years",83
+"Jamaica","Central America and the Caribbean","life_expectancy_years",76.3
+"Japan","East and Southeast Asia","life_expectancy_years",85.2
+"Jordan","Middle East","life_expectancy_years",76.5
+"Kazakhstan","Central Asia","life_expectancy_years",73.3
+"Kenya","Africa","life_expectancy_years",70.4
+"Kiribati","Australia and Oceania","life_expectancy_years",68.5
+"Korea, North","East and Southeast Asia","life_expectancy_years",73.5
+"Korea, South","East and Southeast Asia","life_expectancy_years",83.4
+"Kuwait","Middle East","life_expectancy_years",79.6
+"Kyrgyzstan","Central Asia","life_expectancy_years",72.9
+"Laos","East and Southeast Asia","life_expectancy_years",69
+"Latvia","Europe","life_expectancy_years",76.4
+"Lebanon","Middle East","life_expectancy_years",79.2
+"Lesotho","Africa","life_expectancy_years",60.2
+"Liberia","Africa","life_expectancy_years",61.6
+"Libya","Africa","life_expectancy_years",77.7
+"Lithuania","Europe","life_expectancy_years",76.1
+"Luxembourg","Europe","life_expectancy_years",83.4
+"Madagascar","Africa","life_expectancy_years",68.8
+"Malawi","Africa","life_expectancy_years",73
+"Malaysia","East and Southeast Asia","life_expectancy_years",76.6
+"Maldives","South Asia","life_expectancy_years",77.4
+"Mali","Africa","life_expectancy_years",63.2
+"Malta","Europe","life_expectancy_years",83.6
+"Marshall Islands","Australia and Oceania","life_expectancy_years",75.2
+"Mauritania","Africa","life_expectancy_years",65.9
+"Mauritius","Africa","life_expectancy_years",75.4
+"Mexico","North America","life_expectancy_years",74.6
+"Micronesia, Federated States of","Australia and Oceania","life_expectancy_years",75
+"Moldova","Europe","life_expectancy_years",70.1
+"Monaco","Europe","life_expectancy_years",89.8
+"Mongolia","East and Southeast Asia","life_expectancy_years",71.9
+"Montenegro","Europe","life_expectancy_years",78.2
+"Morocco","Africa","life_expectancy_years",74.2
+"Mozambique","Africa","life_expectancy_years",58.3
+"Namibia","Africa","life_expectancy_years",65.9
+"Nauru","Australia and Oceania","life_expectancy_years",68.6
+"Nepal","South Asia","life_expectancy_years",73
+"Netherlands","Europe","life_expectancy_years",81.9
+"New Zealand","Australia and Oceania","life_expectancy_years",82.9
+"Nicaragua","Central America and the Caribbean","life_expectancy_years",74.7
+"Niger","Africa","life_expectancy_years",60.9
+"Nigeria","Africa","life_expectancy_years",62.2
+"North Macedonia","Europe","life_expectancy_years",77.3
+"Norway","Europe","life_expectancy_years",82.9
+"Oman","Middle East","life_expectancy_years",77.4
+"Pakistan","South Asia","life_expectancy_years",70.3
+"Palau","Australia and Oceania","life_expectancy_years",75.2
+"Panama","Central America and the Caribbean","life_expectancy_years",79.2
+"Papua New Guinea","East and Southeast Asia","life_expectancy_years",70.1
+"Paraguay","South America","life_expectancy_years",78.8
+"Peru","South America","life_expectancy_years",68.9
+"Philippines","East and Southeast Asia","life_expectancy_years",70.8
+"Poland","Europe","life_expectancy_years",76.7
+"Portugal","Europe","life_expectancy_years",81.9
+"Puerto Rico","Central America and the Caribbean","life_expectancy_years",82.1
+"Qatar","Middle East","life_expectancy_years",80.3
+"Romania","Europe","life_expectancy_years",76.9
+"Russia","Central Asia","life_expectancy_years",72.3
+"Rwanda","Africa","life_expectancy_years",66.6
+"Saint Kitts and Nevis","Central America and the Caribbean","life_expectancy_years",77.6
+"Saint Lucia","Central America and the Caribbean","life_expectancy_years",79.4
+"Saint Vincent and the Grenadines","Central America and the Caribbean","life_expectancy_years",77.2
+"Samoa","Australia and Oceania","life_expectancy_years",75.7
+"San Marino","Europe","life_expectancy_years",84.2
+"Sao Tome and Principe","Africa","life_expectancy_years",67.7
+"Saudi Arabia","Middle East","life_expectancy_years",77.2
+"Senegal","Africa","life_expectancy_years",70.6
+"Serbia","Europe","life_expectancy_years",75.3
+"Seychelles","Africa","life_expectancy_years",76.6
+"Sierra Leone","Africa","life_expectancy_years",59.4
+"Singapore","East and Southeast Asia","life_expectancy_years",86.7
+"Slovakia","Europe","life_expectancy_years",77.2
+"Slovenia","Europe","life_expectancy_years",82.2
+"Solomon Islands","Australia and Oceania","life_expectancy_years",77.2
+"Somalia","Africa","life_expectancy_years",56.5
+"South Africa","Africa","life_expectancy_years",71.9
+"South Sudan","Africa","life_expectancy_years",60.3
+"Spain","Europe","life_expectancy_years",83
+"Sri Lanka","South Asia","life_expectancy_years",76.8
+"Sudan","Africa","life_expectancy_years",67.8
+"Suriname","South America","life_expectancy_years",72.7
+"Sweden","Europe","life_expectancy_years",82.9
+"Switzerland","Europe","life_expectancy_years",83.9
+"Syria","Middle East","life_expectancy_years",74.8
+"Tajikistan","Central Asia","life_expectancy_years",71.9
+"Tanzania","Africa","life_expectancy_years",70.8
+"Thailand","East and Southeast Asia","life_expectancy_years",78.2
+"Timor-Leste","East and Southeast Asia","life_expectancy_years",70.5
+"Togo","Africa","life_expectancy_years",72.1
+"Tonga","Australia and Oceania","life_expectancy_years",78
+"Trinidad and Tobago","Central America and the Caribbean","life_expectancy_years",76.5
+"Tunisia","Africa","life_expectancy_years",77.3
+"Turkey (Turkiye)","Middle East","life_expectancy_years",76.7
+"Turkmenistan","Central Asia","life_expectancy_years",72.4
+"Tuvalu","Australia and Oceania","life_expectancy_years",69
+"Uganda","Africa","life_expectancy_years",69.7
+"Ukraine","Europe","life_expectancy_years",70.5
+"United Arab Emirates","Middle East","life_expectancy_years",79.9
+"United Kingdom","Europe","life_expectancy_years",82.2
+"United States","North America","life_expectancy_years",80.9
+"Uruguay","South America","life_expectancy_years",78.9
+"Uzbekistan","Central Asia","life_expectancy_years",76.2
+"Vanuatu","Australia and Oceania","life_expectancy_years",75.7
+"Venezuela","South America","life_expectancy_years",74.5
+"Vietnam","East and Southeast Asia","life_expectancy_years",76.1
+"West Bank","Middle East","life_expectancy_years",76.5
+"Yemen","Middle East","life_expectancy_years",68.2
+"Zambia","Africa","life_expectancy_years",66.9
+"Zimbabwe","Africa","life_expectancy_years",67.2
+"Afghanistan","South Asia","maternal_mortality_per_100k",521
+"Albania","Europe","maternal_mortality_per_100k",7
+"Algeria","Africa","maternal_mortality_per_100k",62
+"Andorra","Europe","maternal_mortality_per_100k",11
+"Angola","Africa","maternal_mortality_per_100k",183
+"Antigua and Barbuda","Central America and the Caribbean","maternal_mortality_per_100k",35
+"Argentina","South America","maternal_mortality_per_100k",33
+"Armenia","Central Asia","maternal_mortality_per_100k",19
+"Australia","Australia and Oceania","maternal_mortality_per_100k",2
+"Austria","Europe","maternal_mortality_per_100k",6
+"Azerbaijan","Central Asia","maternal_mortality_per_100k",18
+"Bahamas, The","Central America and the Caribbean","maternal_mortality_per_100k",76
+"Bahrain","Middle East","maternal_mortality_per_100k",17
+"Bangladesh","South Asia","maternal_mortality_per_100k",115
+"Barbados","Central America and the Caribbean","maternal_mortality_per_100k",35
+"Belarus","Europe","maternal_mortality_per_100k",1
+"Belgium","Europe","maternal_mortality_per_100k",4
+"Belize","Central America and the Caribbean","maternal_mortality_per_100k",67
+"Benin","Africa","maternal_mortality_per_100k",518
+"Bhutan","South Asia","maternal_mortality_per_100k",47
+"Bolivia","South America","maternal_mortality_per_100k",146
+"Bosnia and Herzegovina","Europe","maternal_mortality_per_100k",6
+"Botswana","Africa","maternal_mortality_per_100k",155
+"Brazil","South America","maternal_mortality_per_100k",67
+"Brunei","East and Southeast Asia","maternal_mortality_per_100k",36
+"Bulgaria","Europe","maternal_mortality_per_100k",6
+"Burkina Faso","Africa","maternal_mortality_per_100k",242
+"Burma","East and Southeast Asia","maternal_mortality_per_100k",185
+"Burundi","Africa","maternal_mortality_per_100k",392
+"Cabo Verde","Africa","maternal_mortality_per_100k",40
+"Cambodia","East and Southeast Asia","maternal_mortality_per_100k",137
+"Cameroon","Africa","maternal_mortality_per_100k",258
+"Canada","North America","maternal_mortality_per_100k",12
+"Central African Republic","Africa","maternal_mortality_per_100k",692
+"Chad","Africa","maternal_mortality_per_100k",748
+"Chile","South America","maternal_mortality_per_100k",10
+"China","East and Southeast Asia","maternal_mortality_per_100k",16
+"Colombia","South America","maternal_mortality_per_100k",59
+"Comoros","Africa","maternal_mortality_per_100k",179
+"Congo, Democratic Republic of the","Africa","maternal_mortality_per_100k",427
+"Congo, Republic of the","Africa","maternal_mortality_per_100k",241
+"Cook Islands","Australia and Oceania","maternal_mortality_per_100k",0
+"Costa Rica","Central America and the Caribbean","maternal_mortality_per_100k",24
+"Cote d'Ivoire","Africa","maternal_mortality_per_100k",359
+"Croatia","Europe","maternal_mortality_per_100k",3
+"Cuba","Central America and the Caribbean","maternal_mortality_per_100k",35
+"Cyprus","Europe","maternal_mortality_per_100k",14
+"Czechia","Europe","maternal_mortality_per_100k",3
+"Denmark","Europe","maternal_mortality_per_100k",4
+"Djibouti","Africa","maternal_mortality_per_100k",162
+"Dominica","Central America and the Caribbean","maternal_mortality_per_100k",36
+"Dominican Republic","Central America and the Caribbean","maternal_mortality_per_100k",124
+"Ecuador","South America","maternal_mortality_per_100k",55
+"Egypt","Africa","maternal_mortality_per_100k",17
+"El Salvador","Central America and the Caribbean","maternal_mortality_per_100k",39
+"Equatorial Guinea","Africa","maternal_mortality_per_100k",174
+"Eritrea","Africa","maternal_mortality_per_100k",291
+"Estonia","Europe","maternal_mortality_per_100k",5
+"Eswatini","Africa","maternal_mortality_per_100k",118
+"Ethiopia","Africa","maternal_mortality_per_100k",195
+"Fiji","Australia and Oceania","maternal_mortality_per_100k",30
+"Finland","Europe","maternal_mortality_per_100k",8
+"France","Europe","maternal_mortality_per_100k",7
+"Gabon","Africa","maternal_mortality_per_100k",233
+"Gambia, The","Africa","maternal_mortality_per_100k",354
+"Gaza Strip","Middle East","maternal_mortality_per_100k",16
+"Georgia","Central Asia","maternal_mortality_per_100k",20
+"Germany","Europe","maternal_mortality_per_100k",4
+"Ghana","Africa","maternal_mortality_per_100k",234
+"Greece","Europe","maternal_mortality_per_100k",5
+"Grenada","Central America and the Caribbean","maternal_mortality_per_100k",48
+"Guatemala","Central America and the Caribbean","maternal_mortality_per_100k",94
+"Guinea","Africa","maternal_mortality_per_100k",494
+"Guinea-Bissau","Africa","maternal_mortality_per_100k",505
+"Guyana","South America","maternal_mortality_per_100k",75
+"Haiti","Central America and the Caribbean","maternal_mortality_per_100k",328
+"Honduras","Central America and the Caribbean","maternal_mortality_per_100k",47
+"Hungary","Europe","maternal_mortality_per_100k",12
+"Iceland","Europe","maternal_mortality_per_100k",3
+"India","South Asia","maternal_mortality_per_100k",80
+"Indonesia","East and Southeast Asia","maternal_mortality_per_100k",140
+"Iran","Middle East","maternal_mortality_per_100k",16
+"Iraq","Middle East","maternal_mortality_per_100k",66
+"Ireland","Europe","maternal_mortality_per_100k",4
+"Israel","Middle East","maternal_mortality_per_100k",2
+"Italy","Europe","maternal_mortality_per_100k",6
+"Jamaica","Central America and the Caribbean","maternal_mortality_per_100k",130
+"Japan","East and Southeast Asia","maternal_mortality_per_100k",3
+"Jordan","Middle East","maternal_mortality_per_100k",31
+"Kazakhstan","Central Asia","maternal_mortality_per_100k",10
+"Kenya","Africa","maternal_mortality_per_100k",379
+"Kiribati","Australia and Oceania","maternal_mortality_per_100k",80
+"Korea, North","East and Southeast Asia","maternal_mortality_per_100k",67
+"Korea, South","East and Southeast Asia","maternal_mortality_per_100k",4
+"Kuwait","Middle East","maternal_mortality_per_100k",8
+"Kyrgyzstan","Central Asia","maternal_mortality_per_100k",42
+"Laos","East and Southeast Asia","maternal_mortality_per_100k",112
+"Latvia","Europe","maternal_mortality_per_100k",19
+"Lebanon","Middle East","maternal_mortality_per_100k",15
+"Lesotho","Africa","maternal_mortality_per_100k",478
+"Liberia","Africa","maternal_mortality_per_100k",628
+"Libya","Africa","maternal_mortality_per_100k",59
+"Lithuania","Europe","maternal_mortality_per_100k",8
+"Luxembourg","Europe","maternal_mortality_per_100k",12
+"Madagascar","Africa","maternal_mortality_per_100k",445
+"Malawi","Africa","maternal_mortality_per_100k",225
+"Malaysia","East and Southeast Asia","maternal_mortality_per_100k",26
+"Maldives","South Asia","maternal_mortality_per_100k",32
+"Mali","Africa","maternal_mortality_per_100k",367
+"Malta","Europe","maternal_mortality_per_100k",8
+"Marshall Islands","Australia and Oceania","maternal_mortality_per_100k",155
+"Mauritania","Africa","maternal_mortality_per_100k",381
+"Mauritius","Africa","maternal_mortality_per_100k",66
+"Mexico","North America","maternal_mortality_per_100k",42
+"Micronesia, Federated States of","Australia and Oceania","maternal_mortality_per_100k",129
+"Moldova","Europe","maternal_mortality_per_100k",19
+"Monaco","Europe","maternal_mortality_per_100k",5
+"Mongolia","East and Southeast Asia","maternal_mortality_per_100k",41
+"Montenegro","Europe","maternal_mortality_per_100k",6
+"Morocco","Africa","maternal_mortality_per_100k",70
+"Mozambique","Africa","maternal_mortality_per_100k",82
+"Namibia","Africa","maternal_mortality_per_100k",139
+"Nauru","Australia and Oceania","maternal_mortality_per_100k",273
+"Nepal","South Asia","maternal_mortality_per_100k",142
+"Netherlands","Europe","maternal_mortality_per_100k",4
+"New Zealand","Australia and Oceania","maternal_mortality_per_100k",7
+"Nicaragua","Central America and the Caribbean","maternal_mortality_per_100k",60
+"Niger","Africa","maternal_mortality_per_100k",350
+"Nigeria","Africa","maternal_mortality_per_100k",993
+"North Macedonia","Europe","maternal_mortality_per_100k",3
+"Norway","Europe","maternal_mortality_per_100k",1
+"Oman","Middle East","maternal_mortality_per_100k",13
+"Pakistan","South Asia","maternal_mortality_per_100k",155
+"Palau","Australia and Oceania","maternal_mortality_per_100k",89
+"Panama","Central America and the Caribbean","maternal_mortality_per_100k",37
+"Papua New Guinea","East and Southeast Asia","maternal_mortality_per_100k",189
+"Paraguay","South America","maternal_mortality_per_100k",58
+"Peru","South America","maternal_mortality_per_100k",51
+"Philippines","East and Southeast Asia","maternal_mortality_per_100k",84
+"Poland","Europe","maternal_mortality_per_100k",2
+"Portugal","Europe","maternal_mortality_per_100k",15
+"Puerto Rico","Central America and the Caribbean","maternal_mortality_per_100k",11
+"Qatar","Middle East","maternal_mortality_per_100k",4
+"Romania","Europe","maternal_mortality_per_100k",12
+"Russia","Central Asia","maternal_mortality_per_100k",9
+"Rwanda","Africa","maternal_mortality_per_100k",229
+"Saint Kitts and Nevis","Central America and the Caribbean","maternal_mortality_per_100k",74
+"Saint Lucia","Central America and the Caribbean","maternal_mortality_per_100k",44
+"Saint Vincent and the Grenadines","Central America and the Caribbean","maternal_mortality_per_100k",56
+"Samoa","Australia and Oceania","maternal_mortality_per_100k",101
+"San Marino","Europe","maternal_mortality_per_100k",8
+"Sao Tome and Principe","Africa","maternal_mortality_per_100k",75
+"Saudi Arabia","Middle East","maternal_mortality_per_100k",7
+"Senegal","Africa","maternal_mortality_per_100k",237
+"Serbia","Europe","maternal_mortality_per_100k",11
+"Seychelles","Africa","maternal_mortality_per_100k",42
+"Sierra Leone","Africa","maternal_mortality_per_100k",354
+"Singapore","East and Southeast Asia","maternal_mortality_per_100k",6
+"Slovakia","Europe","maternal_mortality_per_100k",4
+"Slovenia","Europe","maternal_mortality_per_100k",3
+"Solomon Islands","Australia and Oceania","maternal_mortality_per_100k",123
+"Somalia","Africa","maternal_mortality_per_100k",563
+"South Africa","Africa","maternal_mortality_per_100k",118
+"South Sudan","Africa","maternal_mortality_per_100k",692
+"Spain","Europe","maternal_mortality_per_100k",3
+"Sri Lanka","South Asia","maternal_mortality_per_100k",18
+"Sudan","Africa","maternal_mortality_per_100k",256
+"Suriname","South America","maternal_mortality_per_100k",84
+"Sweden","Europe","maternal_mortality_per_100k",4
+"Switzerland","Europe","maternal_mortality_per_100k",5
+"Syria","Middle East","maternal_mortality_per_100k",20
+"Tajikistan","Central Asia","maternal_mortality_per_100k",14
+"Tanzania","Africa","maternal_mortality_per_100k",276
+"Thailand","East and Southeast Asia","maternal_mortality_per_100k",34
+"Timor-Leste","East and Southeast Asia","maternal_mortality_per_100k",192
+"Togo","Africa","maternal_mortality_per_100k",349
+"Tonga","Australia and Oceania","maternal_mortality_per_100k",67
+"Trinidad and Tobago","Central America and the Caribbean","maternal_mortality_per_100k",54
+"Tunisia","Africa","maternal_mortality_per_100k",36
+"Turkey (Turkiye)","Middle East","maternal_mortality_per_100k",15
+"Turkmenistan","Central Asia","maternal_mortality_per_100k",5
+"Tuvalu","Australia and Oceania","maternal_mortality_per_100k",170
+"Uganda","Africa","maternal_mortality_per_100k",170
+"Ukraine","Europe","maternal_mortality_per_100k",15
+"United Arab Emirates","Middle East","maternal_mortality_per_100k",3
+"United Kingdom","Europe","maternal_mortality_per_100k",8
+"United States","North America","maternal_mortality_per_100k",17
+"Uruguay","South America","maternal_mortality_per_100k",15
+"Uzbekistan","Central Asia","maternal_mortality_per_100k",26
+"Vanuatu","Australia and Oceania","maternal_mortality_per_100k",100
+"Venezuela","South America","maternal_mortality_per_100k",227
+"Vietnam","East and Southeast Asia","maternal_mortality_per_100k",48
+"West Bank","Middle East","maternal_mortality_per_100k",16
+"Yemen","Middle East","maternal_mortality_per_100k",118
+"Zambia","Africa","maternal_mortality_per_100k",85
+"Zimbabwe","Africa","maternal_mortality_per_100k",358
