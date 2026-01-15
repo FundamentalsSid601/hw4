@@ -6,128 +6,85 @@ output:
     df_print: paged
 ---
 
+### Importing Relevant Files
+
+```{r}
+# Read the cleaned datasets from CSV (created in HW3)
+infant_new <- read.csv("infant_mortality_clean.csv")
+life_exp_new <- read.csv("life_expectancy_clean.csv")
+maternal_new <- read.csv("maternal_mortality_clean.csv")
+```
 
 ### Merging
 
 ```{r}
-# Read the cleaned infant mortality dataset from CSV (created in HW3)
-infant_new <- read.csv("infant_mortality_clean.csv", stringsAsFactors = FALSE)
+# Merge infant + life expectancy by country (inner join)
+merged_df <- merge(infant_new, life_exp_new, by = "country", suffixes = c("_imr", "_le"))
 
-# Read the cleaned life expectancy dataset from CSV (created in HW3)
-life_exp_new <- read.csv("life_expectancy_clean.csv", stringsAsFactors = FALSE)
+# Create a single region column
+merged_df$region <- ifelse(is.na(merged_df$region_imr) | merged_df$region_imr == "", merged_df$region_le, merged_df$region_imr)
+merged_df$region_imr <- NULL
+merged_df$region_le <- NULL
 
-# Read the cleaned maternal mortality dataset from CSV (created in HW3)
-maternal_new <- read.csv("maternal_mortality_clean.csv", stringsAsFactors = FALSE)
+# Merge with maternal mortality by country
+merged_all <- merge(merged_df, maternal_new, by = "country")
 
-# Confirm the structure of each cleaned dataset
-str(infant_new); str(life_exp_new); str(maternal_new)
-```
-
-
-```{r}
-# Merge infant + life expectancy by country (keep only countries present in both = inner join)
-merged_12 <- merge(infant_new, life_exp_new, by = "country", suffixes = c("_imr", "_le"))
-
-# Create a single region column (prefer the infant region if present, else life expectancy region)
-merged_12$region <- ifelse(is.na(merged_12$region_imr) | merged_12$region_imr == "", merged_12$region_le, merged_12$region_imr)
-
-# Drop the duplicate region columns to avoid unnecessary variables
-merged_12$region_imr <- NULL; merged_12$region_le <- NULL
-
-# Merge with maternal mortality by country (inner join to keep consistent complete cases)
-merged_all <- merge(merged_12, maternal_new, by = "country")
-
-# The merge brought in a second region column from maternal_new - it gets auto-named "region.y"
-# Our existing region from merged_12 is now "region.x"
-# Create a final single region column (prefer the first region unless missing)
+# Consolidate region columns (region.x and region.y from merge)
 merged_all$region <- ifelse(is.na(merged_all$region.x) | merged_all$region.x == "", merged_all$region.y, merged_all$region.x)
-
-# Drop the duplicate region columns
 merged_all$region.x <- NULL
 merged_all$region.y <- NULL
 
-
-```
-
-```{r}
-# Reorder columns into a clean “wide” merged dataset
+# Reorder columns
 merged_all <- merged_all[, c("country", "region", "infant_mortality_per_1000", "life_expectancy_years", "maternal_mortality_per_100k")]
 
-# Preview the merged dataset (human check)
-head(merged_all)
+# Save merged dataset as CSV
+write.csv(merged_all, "cia_merged_data.csv", row.names = FALSE, na = "")
+file.exists("cia_merged_data.csv")
 
-# Save merged dataset as CSV so it can be pushed to GitHub
-write.csv(merged_all, "cia_merged_wide.csv", row.names = FALSE, na = "")
-
-# Verify the file was created in the working directory (required by rubric)
-file.exists("cia_merged_wide.csv")
-
-# Re-open the saved file to verify it saved correctly and types are reasonable
-merged_check <- read.csv("cia_merged_wide.csv", stringsAsFactors = FALSE)
-
-# Verify structure after saving (required verification code)
-str(merged_check)
-
-# Verify expected columns exist (required verification code)
-names(merged_check)
+# View result
+head(read.csv("cia_merged_data.csv"))
 ```
 
 ### Aggregating
 
 ```{r}
-# Aggregate the merged data by region using median (robust to outliers in health data)
-aggregated <- aggregate(
-  cbind(infant_mortality_per_1000, life_expectancy_years, maternal_mortality_per_100k) ~ region,
-  data = merged_all,
-  FUN = median,
-  na.rm = TRUE
-)
+library(dplyr)
 
-# Preview the aggregated dataset
-aggregated
+# Aggregate using mean (average) by region
+aggregated <- merged_all %>%
+  group_by(region) %>%
+  summarise(
+    avg_infant_mortality = mean(infant_mortality_per_1000, na.rm = TRUE),
+    avg_life_expectancy = mean(life_expectancy_years, na.rm = TRUE),
+    avg_maternal_mortality = mean(maternal_mortality_per_100k, na.rm = TRUE)
+  )
 
 # Save aggregated dataset as CSV
 write.csv(aggregated, "cia_aggregated_by_region.csv", row.names = FALSE)
-
-# Verify the file was created
 file.exists("cia_aggregated_by_region.csv")
 
-# Re-read and verify structure
-agg_check <- read.csv("cia_aggregated_by_region.csv", stringsAsFactors = FALSE)
-str(agg_check)
+# View result
+head(read.csv("cia_aggregated_by_region.csv"))
 ```
 
 ### Reshaping
 
 ```{r}
-# Reshape wide to long format using reshape() from base R
-# Keep country and region as id variables, stack the three metric columns
-merged_long <- reshape(
-  merged_all,
-  direction = "long",
-  varying = c("infant_mortality_per_1000", "life_expectancy_years", "maternal_mortality_per_100k"),
-  v.names = "value",
-  timevar = "metric",
-  times = c("infant_mortality_per_1000", "life_expectancy_years", "maternal_mortality_per_100k"),
-  idvar = c("country", "region")
-)
+library(tidyr)
 
-# Reset row names for cleaner output
-rownames(merged_long) <- NULL
+# Convert from wide to long format
+long_df <- merged_all[, -which(names(merged_all) == "region")]
+long_df <- pivot_longer(
+  long_df,
+    cols = -country,
+    names_to = "variable",
+    values_to = "value"
+  )
 
-# Preview the long format dataset
-head(merged_long)
-
-# Save long format dataset as CSV
-write.csv(merged_long, "cia_merged_long.csv", row.names = FALSE)
-
-# Verify the file was created
+# Save long format file
+write.csv(long_df, "cia_merged_long.csv", row.names = FALSE)
 file.exists("cia_merged_long.csv")
 
-# Re-read and verify structure
-long_check <- read.csv("cia_merged_long.csv", stringsAsFactors = FALSE)
-str(long_check)
-
-# Verify the reshape worked: should have 3x the rows of wide format
-nrow(merged_long) == nrow(merged_all) * 3
+# View result
+head(read.csv("cia_merged_long.csv"))
 ```

@@ -1,11 +1,11 @@
-"region","infant_mortality_per_1000","life_expectancy_years","maternal_mortality_per_100k"
-"Africa",37.95,67.05,241.5
-"Australia and Oceania",14.4,75.45,94.5
-"Central America and the Caribbean",11.5,76.7,48
-"Central Asia",18.2,72.9,18
-"East and Southeast Asia",15.4,73.6,48
-"Europe",3.3,81.9,6
-"Middle East",13.55,76.95,15.5
-"North America",5.1,80.9,17
-"South America",12.3,74.9,58.5
-"South Asia",26.6,73.35,97.5
+"region","avg_infant_mortality","avg_life_expectancy","avg_maternal_mortality"
+"Africa",40.5018518518519,67.0685185185185,292.12962962963
+"Australia and Oceania",15.15,75.4928571428571,94.7142857142857
+"Central America and the Caribbean",13.1857142857143,76.5428571428571,69.2380952380952
+"Central Asia",17.6666666666667,73.8222222222222,18.1111111111111
+"East and Southeast Asia",16.7352941176471,75.5823529411765,77.6470588235294
+"Europe",4.32857142857143,80.1238095238095,7
+"Middle East",13.61875,77.1625,22.9375
+"North America",7.16666666666667,79.9,23.6666666666667
+"South America",14.9,75.325,73.3333333333333
+"South Asia",36.4375,71.125,138.75
